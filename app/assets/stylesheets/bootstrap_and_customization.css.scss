@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+$body-bg: #e74c3c;
+$font-family-sans-serif: 		'Raleway';
+$navbar-height:             45px;
+$navbar-default-bg: 				#c0392b;
+$navbar-default-link-color: white;
+$brand-primary: 						#d35400;
+$jumbotron-bg:						  #ecf0f1;
+
+@import 'bootstrap';
+
+.center {
+		text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
